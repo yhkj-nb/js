@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         yhkj-nb Cookie抓取工具
-// @namespace    https://github.com/yhkj-nb
+// @namespace    https://github.com/yhkj-nb/js
 // @version      1.0
 // @description  点击按钮抓取当前页面的所有Cookie，支持复制和下载 - by yhkj-nb
 // @author       yhkj-nb
